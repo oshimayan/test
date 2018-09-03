@@ -1,1 +1,1 @@
-print("hellow wold")
+print("hellow")
